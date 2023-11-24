@@ -109,19 +109,22 @@ p {
 
 /* NAVBAR */
 .navbar {
-    background-color: #fafafcf6;
     width: 100%;
     top: 0;
     /* Asegura que la barra de navegación esté encima de otros elementos */
     position: fixed;
-    z-index: 1001;
-    box-shadow: 0px 10px 10px #00000042;
+    z-index: 1000;
 }
 
 .nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+.nav, .dropdown {
+    box-shadow: 0px 5px 5px #00000042;
+    background-color: #fafafcf6;
 }
 
 .nav li a:hover {
@@ -143,12 +146,11 @@ button {
     /* position: center; */
 }
 
-.navbar ul li a {
+.navbar ul li a{
     font-size: 16px;
     color: #002D40;
     padding: 15px;
 }
-
 
 /* Lista desplegable */
 .nav li ul {
@@ -156,28 +158,29 @@ button {
     display: none;
     position: absolute;
     min-width: 140px;
-    background-color: #fafafcf6;
+    /* width: 100vw; */
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    padding: 10px 20px;
-    padding-left: 10px;
-    /* box-shadow: 0px 0px 10px #00000042; */
 }
-
-/* .dropdown {
-} */
 
 .nav li:hover>ul {
     display: block;
+    background-color: #fafafcf6;
+}
+
+.buttonLanguage:hover{
+    font-size: 17px;
+    color: #ff5100;
 }
 
 .buttonLanguage {
+    padding: 8px 20px;
+    padding-left: 10px;
     background-color: transparent;
     border: none;
     font-size: 16px;
     display: flex;
     align-items: center;
-
     justify-content: space-around;
 }
 
@@ -185,8 +188,8 @@ button {
     padding: 5px;
 }
 
-/* BANNER */
 
+/* BANNER */
 .banner {
     margin-top: 53px;
     height: 400px;
