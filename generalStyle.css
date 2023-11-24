@@ -112,14 +112,10 @@ p {
     background-color: #fafafcf6;
     width: 100%;
     top: 0;
-    /* height: 10%; */
-    padding: 15px;
-    box-shadow: 0px 10px 10px #00000042;
-
-    position: fixed;
-    z-index: 1000;
     /* Asegura que la barra de navegación esté encima de otros elementos */
-
+    position: fixed;
+    z-index: 1001;
+    box-shadow: 0px 10px 10px #00000042;
 }
 
 .nav {
@@ -150,31 +146,29 @@ button {
 .navbar ul li a {
     font-size: 16px;
     color: #002D40;
+    padding: 15px;
 }
 
 
 /* Lista desplegable */
 .nav li ul {
-    /* display: block; */
+    display: block;
     display: none;
-
     position: absolute;
     min-width: 140px;
-
-    /* margin-top: 20px; */
     background-color: #fafafcf6;
-    border-radius: 20px;
-    box-shadow: 0px 0px 10px #00000042;
-}
-
-.dropdown {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
     padding: 10px 20px;
     padding-left: 10px;
+    /* box-shadow: 0px 0px 10px #00000042; */
 }
+
+/* .dropdown {
+} */
 
 .nav li:hover>ul {
     display: block;
-
 }
 
 .buttonLanguage {
@@ -194,7 +188,7 @@ button {
 /* BANNER */
 
 .banner {
-    margin-top: 55px;
+    margin-top: 53px;
     height: 400px;
     display: flex;
     padding: 0;
