@@ -7,6 +7,7 @@
     <title>CarlosTurrionCV</title>
     <link rel="stylesheet" href="generalStyle.css">
 
+    <script src="translation.js"></script>
     <!-- Actualizar link dependiendo de la seccion -->
     <script src="scrollUpdateURL.js"></script>
     <!-- <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
@@ -24,7 +25,7 @@
             <li><a href="#languages">Idiomas</a>
                 <ul class="dropdown">
                     <li>
-                        <button class="buttonLanguage">
+                        <button onclick="changeLanguage('es')" class="buttonLanguage">
                             <svg viewBox="0 66 82 66" data-test="flag-ca" style="height: 28.9756px; width: 36px;">
                                 <image height="3168"
                                     href="https://d35aaqx5ub95lt.cloudfront.net/vendor/87938207afff1598611ba626a8c4827c.svg"
@@ -37,7 +38,7 @@
                     </li>
 
                     <li>
-                        <button class="buttonLanguage">
+                        <button onclick="changeLanguage('en')" class="buttonLanguage">
                             <svg viewBox="0 0 82 66" data-test="flag-en" style="height: 28.9756px; width: 36px;">
                                 <image height="3168"
                                     href="https://d35aaqx5ub95lt.cloudfront.net/vendor/87938207afff1598611ba626a8c4827c.svg"
@@ -66,7 +67,6 @@
             </li>
 
         </ul>
-
     </nav>
 
     </section>
@@ -262,14 +262,6 @@
         <h2 class="title-section">Idiomas</h2>
         <div class="divider"></div>
 
-        <!--
-        A1: Básico.
-        A2: Pre-intermedio.
-        B1: Intermedio.
-        B2: Intermedio-Alto.
-        C1: Avanzado
-        C2: Avanzado-Alto. -->
-
         <div class="horizontal card">
             <div class="language">
                 <h4>Español</h4>
@@ -359,18 +351,6 @@
         </div>
 
     </section>
-
-    <!-- <footer class="footer container">
-        <h2 class="title-section">Contacto</h2>
-        <form>
-            <input class="campo" type="text" placeholder="Nombre">
-            <input class="campo" type="email" placeholder="Email">
-            <input type="submit" class="btn-2" value="Enviar">
-        </form>
-        <div class="footer-txt">
-            <p>Lorem ipsum dolor sit amet consectetur.</p>
-        </div>
-    </footer> -->
 
     <footer>
 

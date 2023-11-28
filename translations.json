@@ -1,0 +1,22 @@
+{
+    "es": {
+        "about": "Carlos Turrion",
+        "skills": "Habilidades",
+        "experience": "Experiencia",
+        "education": "Educación",
+        "languages": "Idiomas",
+        "spanish": "Español",
+        "english": "Inglés",
+        "catalan": "Catalán"
+    },
+    "en": {
+        "about": "Carlos Turrion",
+        "skills": "Skills",
+        "experience": "Experience",
+        "education": "Education",
+        "languages": "Languages",
+        "spanish": "Spanish",
+        "english": "English",
+        "catalan": "Catalan"
+    }
+}
