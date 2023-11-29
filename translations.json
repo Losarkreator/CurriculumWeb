@@ -6,8 +6,53 @@
         "languages": "Idiomas",
         "spanish": "Español",
         "english": "Inglés",
-        "catalan": "Catalán"
+        "catalan": "Catalán",
+
+        "hello-word": "¡HOLA MUNDO!",
+        "about-section-p": "Diseñador 3D convertido en desarrollador de aplicaciones iOS con pasión por el código creativo. Ahora, embarcándome en el emocionante viaje hacia el desarrollo web frontend.",
+        
+        "skills-title-section": "habilidades",
+        "skills-programming": "Programación",
+
+        "experience-title-section": "experiencia",
+        "experience-2020-present": "2020 - Presente",
+        "experience-2020-present-p": "He trabajado en aplicaciones para Coca cola, Uriach, Viena, Financiera El Corte Inglés, y Bankinter.",
+        "experience-3d-generalist-deloitte": "Generalista 3D",
+        "experience-2018-present": "2018 - Presente",
+        "experience-2018-present-p": "He trabajado para marcas como Coca cola, Gallo, Pescanova, Prosegur, S&P, Uriach, Banco Santander, Grundig, Danone, Google (Tango), Proske, Clever...",
+        "experience-3d-generalist-pangea": "Generalista 3D",
+        "experience-2016-2018-p": "Desarrollo de proyectos de realidad aumentada (AR) y realidad virtual (VR) para dispositivos móviles. Diseño, modelado, texturizado y animación de modelos 3D. Programación en C#.",
+        
+        "education-title-section": "educación",
+        "education-september-2021": "Sept. 2021",
+        "education-amelia":"Certificado en Amelia, V4 Enablement Training Video Series.",
+        "education-amelia-p":"Asistente conversacional online",
+        "education-july-2021":"Julio 2021",
+        "education-html-css-course":"Curso en HTML y CSS",
+        "education-february-april-2021":"Feb. Abril 2021",
+        "education-february-april-2021-title":"iOS & Swift, The Complete iOS App Development Bootcamp",
+        "education-february-april-2021-p":"Udemy, Online, 65 horas",
+        "education-2014-2016-title":"Curso de Inglés, A2 y B1",
+        "education-2014-2016-p":"Euroidiomes, Barcelona",
+        "education-2013-2014-title":"Master en Diseño y Creación de Videojuegos",
+        "education-2013-2014-p":"FX ANIMATION, Barcelona",
+        "education-2009-2011-title":"Grado Superior en Gráfica Publicitaria",
+        "education-2009-2011-p":"Escuela de Arte y Superior de Diseño, Zamora",
+        
+        "languages-title-section": "idiomas",
+        "languages-spanish": "Español",
+        "languages-spanish-level": "Avanzado-Alto (C2)",
+        
+        "languages-catalan": "Catalán",
+        "languages-catalan-level": "Intermedio-Alto (B2)",
+        
+        "languages-english": "Inglés",
+        "languages-english-level": "Intermedio-Alto (B2)",
+
+        "fin": "fin"
+        
     },
+    
     "en": {
         "skills": "Skills",
         "experience": "Experience",
@@ -15,6 +60,49 @@
         "languages": "Languages",
         "spanish": "Spanish",
         "english": "English",
-        "catalan": "Catalan"
+        "catalan": "Catalan",
+        
+        "hello-word": "HELLO WORLD!",
+        "about-section-p": "3D designer turned iOS app developer with a passion for creative code. Now, embarking on the exciting journey into frontend web development.",
+        
+        "skills-title-section": "skills",
+        "skills-programming": "Programming",
+        
+        "experience-title-section": "experience",
+        "experience-2020-present": "2020 - Present",
+        "experience-2020-present-p": "I have worked on applications for Coca Cola, Uriach, Vienna, Financiera El Corte Inglés, and Bankinter.",
+        "experience-3d-generalist-deloitte": "3D Generalist",
+        "experience-2018-present": "2018 - Present",
+        "experience-2018-present-p": "I have worked for brands such as Coca cola, Gallo, Pescanova, Prosegur, S&P, Uriach, Banco Santander, Grundig, Danone, Google (Tango), Proske, Clever...",
+        "experience-3d-generalist-pangea": "3D Generalist",
+        "experience-2016-2018-p": "Development of augmented reality (AR) and virtual reality (VR) projects for mobile devices. Design, modeling, texturing and animation of 3D models. Programming in C#.",
+        
+        "education-title-section": "education",
+        "education-september-2021": "Sept. 2021",
+        "education-amelia":"Certificate in Amelia, V4 Enablement Training Video Series.",
+        "education-amelia-p":"Online conversational assistant",
+        "education-july-2021":"July 2021",
+        "education-html-css-course":"HTML and CSS Course",
+        "education-february-april-2021":"Feb. April 2021",
+        "education-february-april-2021-title":"iOS & Swift, The Complete iOS App Development Bootcamp",
+        "education-february-april-2021-p":"Udemy, Online, 65 hours",
+        "education-2014-2016-title":"English Course, A2 and B1.",
+        "education-2014-2016-p":"Euroidiomes, Barcelona",
+        "education-2013-2014-title":"Master in Video Game Design and Creation",
+        "education-2013-2014-p":"FX ANIMATION, Barcelona",
+        "education-2009-2011-title":"Higher Degree in Advertising Graphics",
+        "education-2009-2011-p":"School of Art and Higher Design, Zamora",
+        
+        "languages-title-section": "languages",
+        "languages-spanish": "Spanish",
+        "languages-spanish-level": "Advanced-High (C2)",
+        "languages-catalan": "Catalan",
+        "languages-catalan-level": "Intermediate-High (B2)",
+
+        "languages-english": "English",
+        "languages-english-level": "Intermediate-High (B2)",
+
+        "fin": "fin"
+        
     }
 }
