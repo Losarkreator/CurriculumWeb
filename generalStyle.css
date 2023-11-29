@@ -154,13 +154,19 @@ button {
 
 /* Lista desplegable */
 .nav li ul {
-    display: block;
+    /* display: block; */
     display: none;
     position: absolute;
     min-width: 140px;
     /* width: 100vw; */
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+    right: 0; /* Alinea con el borde derecho */
+}
+
+.nav li {
+    /* Asegura que el posicionamiento sea relativo al elemento padre */
+    position: relative; 
 }
 
 .nav li:hover>ul {
