@@ -126,23 +126,31 @@ p {
     background-color: #fafafcf6;
 }
 
-.nav li a:hover {
+.nav li a:hover{
     color: orange;
+}
+
+.nav li p:hover{
+    color: orange;
+    font-size: 17px;
 }
 
 .nav li a,
 button {
     color: #002D40;
     text-decoration: none;
-    /* padding: 10px 15px; */
     display: block;
+}
+
+.nav p {
+    color: #002D40;
+    font-size: 16px;
 }
 
 .navbar ul {
     /* Distribuir elementos uniformemente */
     display: flex;
     justify-content: space-around;
-    /* position: center; */
 }
 
 .navbar ul li a{
@@ -160,7 +168,8 @@ button {
     /* width: 100vw; */
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    right: 0; /* Alinea con el borde derecho */
+    /* Alinea con el borde derecho */
+    right: 0; 
 }
 
 .nav li {
