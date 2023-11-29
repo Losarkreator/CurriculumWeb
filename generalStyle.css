@@ -249,14 +249,14 @@ button {
 
 
 /* ABOUT */
-.about {
+.about-section {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding-bottom: 0;
 }
 
-.about p {
+.about-section p {
     /* padding: 20px 10%; */
     padding: 20px 10%;
     padding-bottom: 10;
