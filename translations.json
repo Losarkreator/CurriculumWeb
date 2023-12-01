@@ -16,14 +16,17 @@
 
         "experience-title-section": "experiencia",
         "experience-2020-present": "2020 - Presente",
-        "experience-2020-present-p": "He trabajado en aplicaciones para Coca cola, Uriach, Viena, Financiera El Corte Inglés, y Bankinter.",
+        "experience-2020-present-p": "He trabajado en aplicaciones para Coca-Cola, Uriach, Viena, Financiera El Corte Inglés, y Bankinter.",
         "experience-3d-generalist-deloitte": "Generalista 3D",
         "experience-2018-present": "2018 - Presente",
-        "experience-2018-present-p": "He trabajado para marcas como Coca cola, Gallo, Pescanova, Prosegur, S&P, Uriach, Banco Santander, Grundig, Danone, Google (Tango), Proske, Clever...",
+        "experience-2018-present-p": "He trabajado para marcas como Coca-Cola, Gallo, Pescanova, Prosegur, S&P, Uriach, Banco Santander, Grundig, Danone, Google (Tango), Proske, Clever...",
         "experience-3d-generalist-pangea": "Generalista 3D",
         "experience-2016-2018-p": "Desarrollo de proyectos de realidad aumentada (AR) y realidad virtual (VR) para dispositivos móviles. Diseño, modelado, texturizado y animación de modelos 3D. Programación en C#.",
         
         "education-title-section": "educación",
+        "education-november-2021": "Noviembre 2021",
+        "education-november-2021-title": "Certificado TOEIC B2",
+        "education-november-2021-p": "Examen de Inglés para Comunicación Internacional",
         "education-september-2021": "Sept. 2021",
         "education-amelia":"Certificado en Amelia, V4 Enablement Training Video Series.",
         "education-amelia-p":"Asistente conversacional online",
@@ -40,17 +43,14 @@
         "education-2009-2011-p":"Escuela de Arte y Superior de Diseño, Zamora",
         
         "languages-title-section": "idiomas",
-        "languages-spanish": "Español",
-        "languages-spanish-level": "Avanzado-Alto (C2)",
-        
-        "languages-catalan": "Catalán",
-        "languages-catalan-level": "Intermedio-Alto (B2)",
-        
         "languages-english": "Inglés",
         "languages-english-level": "Intermedio-Alto (B2)",
+        "languages-catalan": "Catalán",
+        "languages-catalan-level": "Intermedio-Alto (B2)",
+        "languages-spanish": "Español",
+        "languages-spanish-level": "Avanzado-Alto (C2)",
 
-        "fin": "fin"
-        
+        "end": "fin"
     },
     
     "en": {
@@ -70,16 +70,19 @@
         
         "experience-title-section": "experience",
         "experience-2020-present": "2020 - Present",
-        "experience-2020-present-p": "I have worked on applications for Coca Cola, Uriach, Vienna, Financiera El Corte Inglés, and Bankinter.",
+        "experience-2020-present-p": "I have worked on applications for Coca-Cola, Uriach, Vienna, Financiera El Corte Inglés, and Bankinter.",
         "experience-3d-generalist-deloitte": "3D Generalist",
         "experience-2018-present": "2018 - Present",
-        "experience-2018-present-p": "I have worked for brands such as Coca cola, Gallo, Pescanova, Prosegur, S&P, Uriach, Banco Santander, Grundig, Danone, Google (Tango), Proske, Clever...",
+        "experience-2018-present-p": "I have worked for brands like Coca-Cola, Gallo, Pescanova, Prosegur, S&P, Uriach, Banco Santander, Grundig, Danone, Google (Tango), Proske, Clever...",
         "experience-3d-generalist-pangea": "3D Generalist",
         "experience-2016-2018-p": "Development of augmented reality (AR) and virtual reality (VR) projects for mobile devices. Design, modeling, texturing and animation of 3D models. Programming in C#.",
         
         "education-title-section": "education",
+        "education-november-2021": "November 2021",
+        "education-november-2021-title": "B2 TOEIC Certificate",
+        "education-november-2021-p": "Test of English for International Communication",
         "education-september-2021": "Sept. 2021",
-        "education-amelia":"Certificate in Amelia, V4 Enablement Training Video Series.",
+        "education-amelia":"Amelia, V4 Enablement Training Video Series Certificate",
         "education-amelia-p":"Online conversational assistant",
         "education-july-2021":"July 2021",
         "education-html-css-course":"HTML and CSS Course",
@@ -98,11 +101,62 @@
         "languages-spanish-level": "Advanced-High (C2)",
         "languages-catalan": "Catalan",
         "languages-catalan-level": "Intermediate-High (B2)",
-
         "languages-english": "English",
         "languages-english-level": "Intermediate-High (B2)",
 
-        "fin": "fin"
+        "end": "end"
+    },
+    "ca": {
+        "skills": "Habilitats",
+        "experience": "Experiència",
+        "education": "Educació",
+        "languages": "Idiomes",
+        "spanish": "Espanyol",
+        "english": "Anglès",
+        "catalan": "Català",
+
+        "hello-word": "HOLA MÓN!",
+        "about-section-p": "Dissenyador 3D convertit en desenvolupador d'aplicacions iOS amb passió pel codi creatiu. Ara, embarcant-me en l'emocionant viatge cap al desenvolupament web frontend.",
         
+        "skills-title-section": "habilitats",
+        "skills-programming": "Programació",
+
+        "experience-title-section": "experiència",
+        "experience-2020-present": "2020 - Present",
+        "experience-2020-present-p": "He treballat en aplicacions per Coca-Cola, Uriach, Viena, Financiera El Corte Inglés i Bankinter.",
+        "experience-3d-generalist-deloitte": "Generalista 3D",
+        "experience-2018-present": "2018 - Present",
+        "experience-2018-present-p": "He treballat per a marques com Coca-Cola, Gallo, Pescanova, Prosegur, S&P, Uriach, Banco Santander, Grundig, Danone, Google (Tango), Proske, Clever...",
+        "experience-3d-generalist-pangea": "Generalista 3D",
+        "experience-2016-2018-p": "Desenvolupament de projectes de realitat augmentada (AR) i realitat virtual (VR) per a dispositius mòbils. Disseny, modelatge, texturitzat i animació de models 3D. Programació a C#.",
+        
+        "education-title-section": "educació",
+        "education-november-2021": "Novembre 2021",
+        "education-november-2021-title": "Certificat TOEIC B2",
+        "education-november-2021-p": "Examen d'anglès per a Comunicació Internacional",
+        "education-september-2021": "Set. 2021",
+        "education-amelia":"Certificat a Amelia, V4 Enablement Training Video Series.",
+        "education-amelia-p":"Assistent conversacional online",
+        "education-july-2021":"Juliol 2021",
+        "education-html-css-course":"Curs en HTML i CSS",
+        "education-february-april-2021":"Feb. Abril 2021",
+        "education-february-april-2021-title":"iOS & Swift, The Complete iOS App Development Bootcamp",
+        "education-february-april-2021-p":"Udemy, Online, 65 hores",
+        "education-2014-2016-title":"Curs d'anglès, A2 i B1",
+        "education-2014-2016-p":"Euroidiomes, Barcelona",
+        "education-2013-2014-title":"Màster en Disseny i Creació de Videojocs",
+        "education-2013-2014-p":"FX ANIMATION, Barcelona",
+        "education-2009-2011-title":"Grau Superior en Gràfica Publicitària",
+        "education-2009-2011-p":"Escola d'Art i Superior de Disseny, Zamora",
+        
+        "languages-title-section": "idiomes",
+        "languages-english": "Anglès",
+        "languages-english-level": "Intermig-Alt (B2)",
+        "languages-catalan": "Català",
+        "languages-catalan-level": "Intermig-Alt (B2)",
+        "languages-spanish": "Espanyol",
+        "languages-spanish-level": "Avançat-Alt (C2)",
+
+        "end": "fin"
     }
 }
